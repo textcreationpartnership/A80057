@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and plain narrative of Matthew Coker, touching some mistakes and mis-recitals in a pamphlet of this day, intituled Certain passages of every days intelligence, &amp;c. In reference to his gift of healing; which is herein clearly evidenced, in several remarkable instances.</title>
+            <author>Coker, Matthew.</author>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80057</idno><idno type="EEBO-CITATION">99866027</idno>
+  <idno type="VID">166903</idno>
+  <idno type="EEBO-PROQUEST">2240914248</idno>
+  
+            <idno type="STC">Wing C4989</idno>
+            <idno type="STC">Thomason E734_8</idno>
+            <idno type="STC">ESTC R206940</idno>
+            <idno type="PROQUEST">99866027</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866027e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E734[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and plain narrative of Matthew Coker, touching some mistakes and mis-recitals in a pamphlet of this day, intituled Certain passages of every days intelligence, &amp;c. In reference to his gift of healing; which is herein clearly evidenced, in several remarkable instances.</title>
+                  <author>Coker, Matthew.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cottrel.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Coker, Matthew. --  Certain passages of every days intelligence.</term>
+               <term type="topical_term">Healers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166903:1"/>
+            <p> A Short and Plain NARRATIVE Of <hi>MATTHEW COKER,</hi> Touching Some Mistakes and Mis-recitals in a Pamphlet of this day, intituled <hi>Certain Passages of every days Intelli<g ref="char:EOLhyphen"/>gence,</hi> &amp;c.</p>
+            <p>In reference to His Gift of Healing; Which is herein clearly evidenced, in several remarkable Instances.</p>
+            <q>
+               <bibl>Acts 13. 41.</bibl>
+               <p>
+                  <hi>Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which you shall in no wise believe, though a man declare it unto you.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed by JAMES COTTREL.</p>
+            <p>1654.</p>
+            <pb facs="tcp:166903:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:166903:2"/>
+            <head>A short and plain NARATIVE.</head>
+            <opener>
+               <salute>Men and Brethen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas as it was in the time of the Prophet <hi>David,</hi> and of all other the Prophets of the high God, so now it is, that both Prophet and Priest, as well as King, a<g ref="char:EOLhyphen"/>bide the rage of Antichristian fury, when and as oft as the Lord Jesus by them <hi>sits</hi> (himself) <hi>upon his holy hill of</hi> Sion: And forasmuch as this present Age, with, and in whom the Spirit of Antichrist, which is that Spirit, &amp; no other, which denies our Lord Jesus to be come in the flesh, doth highly abound, and is not wanting neither of assistance from the Jewish Rabbies, nor the Papistical Seminaries (&amp; not those Catholicks called Jesuites) to strike at the better part of the Gospel by the one; and of the holy Commandments in the Law, by the other; for carrying the which designes the better on, there is not wanting more then one false
+<pb n="2" facs="tcp:166903:3"/> Prophet to oppose a true one, as soon as God raiseth him up: And forasmuch as by the first Intro<g ref="char:EOLhyphen"/>duction of the matter of the said book, it is thus for some dark reasons (not yet cleerly manifested) set forth, in these phrases: <hi>A new Prophet is risen very lately: it is said he was once of Grayes Inne; he hath a book in the Press, wherein he takes upon him to foretel things to come; but for a subsistence at present, he takes upon him the cure of despe<g ref="char:EOLhyphen"/>rate diseases in men, women, and children▪ if you have a minde to hear further of him, you may inquire about Goodmans close:</hi> I am therefore pressed in Spirit to let you see the vani<g ref="char:EOLhyphen"/>ty, as well as falsehood of such phrases: whereas had I not been thus irritated, and my cause also, as it is good in it self, so in the declaration thereof of high use to the glory of God, and of his Church, and I hope all men living, I should yet have been silent, for fear I should appear a seeker of mine own ends, or an endeavourer to make my self thought to be more then what I know I am.</p>
+            <p>But having this just occasion, I shall (by taking oc<g ref="char:EOLhyphen"/>casion to answer these speeches) take liberty to speak more fully of the whole matter, so far as every one of the Church of God, and of my dear Country▪men, (who I doubt not but will hear any man in his just de<g ref="char:EOLhyphen"/>fence) ought to know.</p>
+            <p>Be it therefore known unto you all, that the person there hinted at under the name of a Prophet, is (I am sure for good reasons) meant my self; forasmuch as not many dayes since I did lodge at <hi>Goodmans</hi> Close, and did within a mile or two of that place shew forth the gift of healing which God gave me, even in the High-way, as well as in Alms-houses and other
+<pb n="3" facs="tcp:166903:3"/> places. But touching such a book in the Press, I know of none, nor have I wrote any other then that of the ninth of <hi>January</hi> last, which if rendered in En<g ref="char:EOLhyphen"/>glish, hath its Title, <hi>The right Judgement with the Faith of Matthew Coker:</hi> which being a work I am able to maintain and justifie, I did publish, though it con<g ref="char:EOLhyphen"/>tains matter of prophesie; and sent some of the first to be left with a Gentleman, to be distributed, as I best remember, for the Lord Protector (I am sure) one; and some of the rest to be given the French Ministers then attending (as I heard) with some Embassie; and the rest to other Persons of Honor residing in this Na<g ref="char:EOLhyphen"/>tion: but to any out of the Nation I sent none. And what is therein contained, I am ready (if required therunto) faithfully to translate into English, with every occasion and circumstance moving me thereunto, both before and at the writing; as also what God hath since shown by a miraculous confirmation of the same: One part of which confirmation I shall onely relate, (concealing the other till required or forced▪ to the de<g ref="char:EOLhyphen"/>claring thereof;) which is the gift of Healing, and perhaps also of Miracles: which lest I should erre in the terms I give them, I shall with the greatest humi<g ref="char:EOLhyphen"/>lity onely declare some of the chief things which were done, and that in those parts neer <hi>Goodmans Close;</hi> they being more lately (concealing others done several months since) and I shall leave them to your several judgements to give them the most proper lawful terms that you please; and of me to judge as you list, who care not how I am judged by mans judgement.</p>
+            <p>About this day sevennight, I walking in the fields beyond <hi>Goodmans Close;</hi> upon my return home met a
+<pb n="4" facs="tcp:166903:4"/> Leper in my way, as I remember one <hi>Henry Flemming,</hi> who looked earnestly on me, and cried with a loud voice, implying thereby, and by his words therewith uttered, a most certain expectation that he had to re<g ref="char:EOLhyphen"/>ceive somewhat remarkable from me: but I passing by him, he cried the more earnestly on me, telling me in what affliction he had been, and how lame for many yeers. Whereupon, I being moved with compassion towards him, and intending him that blessing I had from God to bestow on him; but with all jealous of healing him before I throughly examined him of his condition, lest after recovery he should (as some have done) after a cure fall from confessing the same, as it truely ought to be for Gods glory, with a return of thanks: I examined him before several persons touch<g ref="char:EOLhyphen"/>ing his condition. He satisfied us that his Father was a Leper and lame, and that he was and had been lame about three yeers, not able to go without Crutches; besides, weak even in every part of his body, and having a sore in his thigh. We found cleerly that he was not able to stand off from a Wall or Leaning-place without help; and his posture was much bowed. Then I came to him, and with my hands straightned his body; and laying my hand on his back, and also on his knee and leg, he was presently able to stand upright, and go a step or two without Crutches, upon my saying to him, <hi>Stand up and Walk.</hi> After that, I applyed an Ivie-leaf to his sore, and he bound it up; and then he walked somewhat better, saying, he hoped to run by to morrow: but I said, <hi>Nay sooner then you think for:</hi> and a few hours after, he was able to run: and since, I have found him to walk as well as
+<pb n="5" facs="tcp:166903:4"/> any one. A few days after, in my walk, I went unto an Hospital not far thence, and cured several men: one had a limbe he wanted that exercise of thirty yeers, which from my laying hands on he presently had. A<g ref="char:EOLhyphen"/>nother had legs benummed towards the feet, and was well restored; as also a hand with the fingers grasped inward, and long time useless and dead, (or withered, as perhaps it may be the more proper term) and he found life and quickness entring into them more and more, as my hand continued on them; and at last, he had the full, quite, and perfect use of them. Another a pain in his stomack; which also on my touch he was cured of. These all rejoyced, and gave glory to God.</p>
+            <p>There were two more also present, which being hard of belief, could not finde the goodness of God so effe<g ref="char:EOLhyphen"/>ctually: yet the power of God was seen even on them both; more especially on one; who being sent for by the rest, and coming with Crutches, (as many yeers he could not without,) I said to him, <hi>Lay aside thy Crutches, and walk:</hi> which he did, and walked without them many steps: but not believing, he did it with the more fear and astonishment.</p>
+            <p>Several also there are who have had a restorement of defects in their sight, &amp; otherwise, I could mention. Those I particularly have here mentioned to have healed, perhaps I likewise releived: but neither from them, nor any other, did I take any thing, nor ever will I, lest the guift <hi>freely received,</hi> should not be <hi>freely given.</hi>
+            </p>
+            <p>And for my subsistence at present, whatever the News-monger or News-maker saith, I live upon my own.</p>
+            <pb n="6" facs="tcp:166903:5"/>
+            <p> And whereas he saith I take upon me the cure of de<g ref="char:EOLhyphen"/>sperate diseases in men, women, and Children; I know not what he means by a desperate disease, unless in a case where a womans child had been bewitched and struck dumb about a week, I cast out the evil spirit, and the child was restored.</p>
+            <p>But all these things have I done by the Finger of God: which any Christian may easily judge, it be<g ref="char:EOLhyphen"/>ing beyond the work of Satan to give the least of such good gifts.</p>
+            <p>Thus I have made a short and plain Relation, to pre<g ref="char:EOLhyphen"/>vent mistakes.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Friday</hi> the 17 of <hi>March</hi> 1653.</date>
+               </dateline>
+               <signed>
+                  <hi>Matthew Coker</hi> of <hi>Lincolnes Inne.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
